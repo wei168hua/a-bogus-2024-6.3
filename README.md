@@ -32,5 +32,5 @@ A-bogus.py中的参数自行替换
 ### 🙌赞助
 
 
-![image](https://hlgzhhj.oss-cn-hangzhou.aliyuncs.com/2024/6/1/9/2001717305687_.pic.jpg)
+![image]()
 
